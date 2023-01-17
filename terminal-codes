@@ -18,13 +18,15 @@ npm init -y -> criar o package.json
 * CÓDIGOS DE TERCEIROS *
 
 
-npm i fastify -> instalar o Fastify
+npm i fastify -> instalar o framework Fastify
 
 npm i typescript -D -> instalar o TypeScript como dependencia de desenvolvimento 
 
 npx tsc --init -> criar o arquivo tsconfig.json
 
 npm i tsx -D -> executar um arquivo do node com TypeScript sem precisar fazer conversão
+
+npm i -D prisma -> instalar o ORM Prisma
 
 
 
