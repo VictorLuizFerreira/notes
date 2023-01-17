@@ -26,6 +26,6 @@ npm i tsx -D -> executar um arquivo do node com TypeScript sem precisar fazer co
 
 * SCRIPTS *
 
-npm run dev 
+npm run dev -> rodar script de desenvolvimento 
 
 
