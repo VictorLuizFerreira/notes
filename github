@@ -1,0 +1,12 @@
+Para criar/atualizar/mexer em um repositorio/projeto no GitHub:
+
+
+-> crie um repositorio e clone ele no VSCode;
+
+-> git add .
+
+-> git commit -am "nome que você desejar"
+
+-> git pull
+
+-> git push
