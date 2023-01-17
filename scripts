@@ -1,1 +1,4 @@
-"dev": tsx src/nome.ts 
+"dev": tsx src/nome.ts -> rodar o desenvolvimento 
+
+"dev": tsx watch src/nome.ts -> rodar o desenvolvimento atualizando a cada nova alteração
+
