@@ -1,0 +1,31 @@
+mkdir nome -> criar diretorio/pasta
+
+cd nome -> entrar no diretorio/pasta
+
+code . -> abrir no VSCode
+
+node -v -> versão do node
+
+npm -v -> versão do npm 
+
+npm init -y -> criar o package.json
+
+
+
+* CÓDIGOS DE TERCEIROS *
+
+npm i fastify -> instalar o Fastify
+
+npm i typescript -D -> instalar o TypeScript como dependencia de desenvolvimento 
+
+npx tsc --init -> criar o arquivo tsconfig.json
+
+npm i tsx -D -> executar um arquivo do node com TypeScript sem precisar fazer conversão
+
+
+
+* SCRIPTS *
+
+npm run dev 
+
+
