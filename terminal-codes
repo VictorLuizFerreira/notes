@@ -1,3 +1,6 @@
+* GERAL *
+
+
 mkdir nome -> criar diretorio/pasta
 
 cd nome -> entrar no diretorio/pasta
@@ -14,6 +17,7 @@ npm init -y -> criar o package.json
 
 * CÓDIGOS DE TERCEIROS *
 
+
 npm i fastify -> instalar o Fastify
 
 npm i typescript -D -> instalar o TypeScript como dependencia de desenvolvimento 
@@ -26,6 +30,5 @@ npm i tsx -D -> executar um arquivo do node com TypeScript sem precisar fazer co
 
 * SCRIPTS *
 
-npm run dev -> rodar script de desenvolvimento 
 
-
+npm run dev -> rodar script de desenvolvimento
