@@ -1,13 +1,40 @@
 * FRAMEWORKS * 
 
+
 Nodejs frameworks:
 - Fastify
 - Express
 
 
+
 * BANCOS DE DADOS * 
+
 
 3 formas mais comuns:
 - Driver Nativos -> MySQL2
 - Query Builders -> Knex.js
 - ORM(Object Relational Mapper) -> Prisma.io
+
+
+
+* SEGURANÇA * 
+
+
+- CORS -> habilitar aplicações para acessar os dados do backend
+
+
+
+* FRONTEND *
+
+
+- Vite -> ferramentas que toda api frontend precisa
+- React -> biblioteca para construção de interfaces de usuários
+- PostCSS -> automatizar tarefas dentro do CSS 
+- TailwindCSS -> plugin do PostCSS
+- AutoPrefixer -> ferramentas para adicionar prefixos de browser
+
+
+* BACKEND *
+
+
+-
