@@ -1,4 +1,11 @@
 # Estrutura do Banco de Dados 
 - Diagramação do banco
 - Criação das tabelas no banco
-- Criação de seed do banco de dados 
+- Criação de seed do banco de dados -> populador de banco de dados; cria dados ficticios para pré popular o banco de dados
+para quando estiver desenvolvendo a api, não trabalhar com banco de dados vazio, impossibilitando de testar as rotas da api
+- Isolar aquivos do Backend
+- Criar as rotas do Backend
+- Request -> 
+.body   => corpo da requisição; informações na criação, atualização de recursos; ex: criar o usuário - aqui é o nome, email, etc
+.params => parametros na rota; identificar algum recurso; ex: nome/1 - listando os nomes com id 1
+.query  => geralmente os parametros com ? usados para paginação e etc
