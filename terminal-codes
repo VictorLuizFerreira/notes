@@ -38,6 +38,8 @@ npx prisma studio -> abre interface para navegar pelo banco de dados
 
 npm i @fastify/cors -> integração do CORS com o Fastify
 
+npx prisma db seed -> seedar o banco de dados com dados iniciais 
+
 
 # Frontend #
 npm create vite@latest -> criar projeto vite
