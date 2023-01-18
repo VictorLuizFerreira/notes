@@ -40,6 +40,10 @@ npm i @fastify/cors -> integração do CORS com o Fastify
 
 npx prisma db seed -> seedar o banco de dados com dados iniciais 
 
+npm i zod -> instalar o zod validador de dados 
+
+npm i dayjs -> instalar biblioteca boa pra trabalhar com datas
+
 
 # Frontend #
 npm create vite@latest -> criar projeto vite
