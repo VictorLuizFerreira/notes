@@ -49,7 +49,7 @@ npm i dayjs -> instalar biblioteca boa pra trabalhar com datas
 npm create vite@latest -> criar projeto vite
 npm i -D tailwindcss postcss autoprefixer -> instalar essas 3 ferramentas; tailwind, postcss e autoprefixer
 npx tailwindcss init -p -> criar arquivo do tailwind e do postcss
-
+npm i phosphor-react -> instalar a biblioteca de icones phosphor
 
 
 * SCRIPTS *
